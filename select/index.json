@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Alcohol-Free",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-26T11:49:47.335217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alcohol-Free",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_Alcohol-Free_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alcohol-Free (Japanese ver.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/02_Alcohol-Free_(Japanese_ver.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Alcohol-Free -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_Alcohol-Free_-Japanese_ver.-_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alcohol‐Free",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_Alcohol‐Free_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alcohol‐Free -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/05_Alcohol‐Free_-Japanese_ver.-_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Alcohol-Free - Russian ver.",
+      "artist": "Sati Akura feat. ElliMarshmallow",
+      "has_synced": true,
+      "path": "select/06_Alcohol-Free_-_Russian_ver._Sati_Akura_feat._ElliMarshmallow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alcohol-Free (Russian ver.)",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/07_Alcohol-Free_(Russian_ver.)_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Alcohol-Free (English ver.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/08_Alcohol-Free_(English_ver.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Alcohol-Free (English ver.)",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/09_Alcohol-Free_(English_ver.)_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Alcohol‐Free",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/10_Alcohol‐Free_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Alcohol-Free",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/11_Alcohol-Free_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Alcohol‐Free",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/12_Alcohol‐Free_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Alcohol-Free",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/13_Alcohol-Free_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Alcohol-Free",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/14_Alcohol-Free_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Alcohol-Free (Instrumental)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/15_Alcohol-Free_(Instrumental)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Alcohol‐Free (English ver.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/16_Alcohol‐Free_(English_ver.)_TWICE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Alcohol-Free",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Alcohol-Free_TWICE.txt"
+    }
+  ]
+}
